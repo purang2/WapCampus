@@ -14,7 +14,7 @@
 
 ### Author&Programmer
 
-Thank you for coming here to play! Hi I'm **Eunchan Lee(James)**, who is expected to graduate from **Kyungpook National University(KNU)'s Department of Electrical Engineering**(March 2015 ~ February 2021), Faculty of Electronic Engineering and enter the Master's Course in the **KNU Brain-AI Laboratory**(March 2021~).My field will be Machine Learning and Deep Learning Application, and my goal is to be a good developer and a pleasant researcher who makes fun software programs based on User eXperience (UX) who are thinking about how to develop more interesting users.
+Thank you for coming here to play! Hi I'm **Eunchan Lee(James)**, who is expected to graduate from **Kyungpook National University(KNU)'s Department of Electronic Engineering**(March 2015 ~ February 2021), Faculty of Electronic Engineering and enter the Master's Course in the **KNU Brain-AI Laboratory**(March 2021~).My field will be Machine Learning and Deep Learning Application, and my goal is to be a good developer and a pleasant researcher who makes fun software programs based on User eXperience (UX) who are thinking about how to develop more interesting users.
 
 **이곳에 놀러와주셔서 감사합니다! 저는 경북대학교 IT대학 전자공학부에 몸담고 있는 이은찬이라는 대학생입니다.  곧 석사과정에 진학하여 경북대학교 전자전기공학부의 뇌인공지능 연구실에서 머신러닝, 딥러닝 분야의 연구를 할 것 같습니다. 제 목표는 어떻게 더 유저를 흥미롭게 하는 개발을 할 수 있을지를 고민하며 유쾌한 연구들을 진행하여 이를 통해서 다양한 User eXperience(UX) 기반의 재밌는 소프트웨어 프로그램들을 세상에 공개하는 좋은 개발자가 되는 것입니다.**
 
