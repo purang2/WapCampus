@@ -44,7 +44,7 @@ When listening to music with the music app, the music is recognized and reflecte
 - UE4, Unity (GameProgramming Tools)
 - Figma (Front-end Design Tool)
 
-### Websites you can refer to for development
+### Websites 
 
 - MILKCORP (Representative App: With Bear(곰과 함께))[[http://milkcorp.com/news20180108/](http://milkcorp.com/news20180108/)]
 - Unity 기반의 가상현실 캠퍼스 관련 과제논문 (장안대학교)[[http://www.koreascience.or.kr/article/CFKO201831342441261.pdf](http://www.koreascience.or.kr/article/CFKO201831342441261.pdf)]
