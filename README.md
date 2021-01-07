@@ -2,6 +2,12 @@
 [2021 Personal-Project] Walk and Play on Campus with AI(WaP Campus)
 
 
+
+
+
+---
+
+
 ### Author&Programmer
 
 Thank you for coming here to play! Hi I'm **Eunchan Lee(James)**, who is expected to graduate from **Kyungpook National University(KNU)'s Department of Electrical Engineering**(March 2015 ~ February 2021), Faculty of Electronic Engineering and enter the Master's Course in the **KNU Brain-AI Laboratory**(March 2021~).My field will be Machine Learning and Deep Learning Application, and my goal is to be a good developer and a pleasant researcher who makes fun software programs based on User eXperience (UX) who are thinking about how to develop more interesting users.
