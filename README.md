@@ -56,3 +56,16 @@ When listening to music with the music app, the music is recognized and reflecte
 ### Comment (Anyone can give me a comment, it helps me!)
 
 It's under construction...
+
+
+### Pedometer 
+
+Pedometer
+In this example we will see how to create a simple pedometer application which will count the steps as we walk or run. Using the step values we may also calculate the approximate distance, pace and calories burned using certain formulas.
+
+According to Wikipedia
+
+A pedometer is a device, usually portable and electronic or electromechanical, that counts each step a person takes by detecting the motion of the person’s hands or hips.
+
+Since most of our smartphones do not have an inbuilt pedometer sensor dedicated for step counting, we will use the Accelerometer sensor which is found in almost all devices to calculate the steps covered.
+
