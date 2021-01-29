@@ -69,3 +69,6 @@ A pedometer is a device, usually portable and electronic or electromechanical, t
 
 Since most of our smartphones do not have an inbuilt pedometer sensor dedicated for step counting, we will use the Accelerometer sensor which is found in almost all devices to calculate the steps covered.
 
+Pedometer Application:
+ http://www.gadgetsaint.com/android/create-pedometer-step-counter-android/#.YBNvfegzZPY
+
